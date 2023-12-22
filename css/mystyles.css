@@ -1,0 +1,39 @@
+
+.title{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(179, 141, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.homebg{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210625/pngtree-green-watercolor-landscape-computer-desktop-wallpaper-image_733324.jpg);
+    background-size: cover;
+}
+.tacobell{
+    font-family: monospace;
+    color:darkslateblue 
+}
+.basic{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: slateblue;
+    font-size: large;
+}
+.video {
+    margin: 20px;
+}
+.subheading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.boring{
+    font-family: 'Times New Roman';
+    color: rgb(35, 29, 69);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
